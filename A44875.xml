@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A hue and crye after passive-obedience, and non-resistance Being a true character of a de-facto-man. Licensed according to order. August 15th. 1690.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44875</idno><idno type="EEBO-CITATION">99825863</idno>
+  <idno type="VID">30254</idno>
+  <idno type="EEBO-PROQUEST">2240885828</idno>
+  
+            <idno type="STC">Wing H3282A</idno>
+            <idno type="STC">ESTC R213493</idno>
+            <idno type="PROQUEST">99825863</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825863e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30254)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1795:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A hue and crye after passive-obedience, and non-resistance Being a true character of a de-facto-man. Licensed according to order. August 15th. 1690.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[printed for R. Baldwin],</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Characters and characteristics --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:30254:1"/>
+            <head>A HUE <hi>and</hi> CRYE AFTER Passive-Obedience, AND None-Resistance. Being a True CHARACTER of a <hi>De-Facto-Man.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed according to Order.</p>
+                        <closer>
+                           <dateline>
+                              <date>August 15th. 1690.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>OUT of Compassion to a Giddy-brained Faction, and for fear of laying them under too great an Odium, I shall curb my Pen, and keep as streight a Rein as possible upon it all the way. Otherwise perhaps 'twere possible to tell an odd story of our Gentleman's Birth and Parentage, and manner of Education; who gave him his Name, and what his Godfathers and Godmothers did for him in Baptism, what <hi>Paul</hi> planted in him, and <hi>Apollos</hi> watered with Wine, and other good Lickquors, <hi>even the Dull Dry Doctrine of Non-Resi<g ref="char:EOLhyphen"/>stance.</hi> Let these be left to the Conjecturals of the Ingenous Reader, because tis almost impossible to trace our Spark through these Particulars, without falling foul upon some of the shining, burning, fiery flaming Lights of the Age.</p>
+            <p>The next thing, in order, that offers it self to Consideration, is his <hi>Li<g ref="char:EOLhyphen"/>brary,</hi> a New <hi>Liturgy,</hi> some <hi>Play-Books,</hi> and some <hi>Romances;</hi> to which
+<pb n="2" facs="tcp:30254:2"/>add the History of <hi>Passive-Obedience,</hi> and the late <hi>Observator</hi> Bound in Calves Leather, and Guilt on the back: He had a great hand in the late Revo<g ref="char:EOLhyphen"/>lution, but now he begins to blow his Fingers as if he had burnt them, and speaks of his Old Abdicated Master with Eyes Brim full of Tears, so tender and relenting is his heart. If you observe him at his Devotions in the Church, you'l find him change Colour at the approach of the Prayers for King <hi>William</hi> and Queen <hi>Mary;</hi> but at the close of all, by the help of what distinction we can't tell, he mutters out his <hi>Amen;</hi> Dogg him from the Church to the Tavern, the next Stage of his Devo<g ref="char:EOLhyphen"/>tion, there you will find him <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allen on his knees, and with a Rummer in his hand, a time when he prays with the warmest and heartiest zeal, pouring forth his Wishes for King <hi>James</hi> his Restoration.</p>
+            <p>When others are solemnly Fasting and Praying for the Success of our Heroes Arms in <hi>Ireland,</hi> you'l find him Revelling and Carousing over roast Beaf and Clarret, partly out of factious singularity and disaf<g ref="char:EOLhyphen"/>fection to the Government, and partly out of pure love to the Premises: but however he'l Swear Allegiance, tho' not till after he hath sawcily reproacht our Grave Senators to their Beards, and put the most disho<g ref="char:EOLhyphen"/>nourable Interpretation upon their words. What need was there of a Parliament to make him <hi>De-facto King?</hi> His Arms, together with his Fast, and Faithful Friends, could have done so much for him, in spight of those that are so backward to Swear to Him <hi>now,</hi> had they opposed Him <hi>then:</hi> He'l Swear, but, for Gods sake, what will he Swear? He'l Swear that the King hath the longest Sword, that He was Solemnl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> In<g ref="char:EOLhyphen"/>augurated at <hi>Westminster;</hi> that they will obey him as long as they dare do no other: In short, they will Worship him as the <hi>Indians</hi> do the Devil, not out of Love, but lest he should do them any harm. We must have stronger Ties than Oaths taken in such a lax sence, to hold such a slippery Gentleman in; 'twould be well if the Government would keep a strict eye over them, and since they resolve to do no good, take special care they do no Mischief. Our Duty is to Pitty, Compassionate them, and Pray for them.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>The Secret History of the Dutchess of <hi>Portsmouth,</hi> in which, an account is given of the Intreagues of the Court, during her Ministry; and of the Death of King <hi>Charles</hi> the Second: Printed for <hi>R. Baldwin</hi> in the <hi>Old-Bailey.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
